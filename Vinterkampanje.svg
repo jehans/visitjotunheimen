@@ -2823,7 +2823,7 @@
      id="rect1144"
      style="fill:#ffffff" /></g><g
    class="cantclick"
-   id="fossheim"
+   id="fossheim_NOTINUSE"
    type="image/svg+xml"><g
      class="st0"
      id="fossheimtext"
@@ -6083,7 +6083,7 @@
    clip-path="url(#SVGID_2_)"
    id="rect2671" /><g
    class="clickme"
-   id="fossberg"
+   id="fossheim"
    type="image/svg+xml"><g
      class="st0"
      clip-path="url(#SVGID_2_)"
@@ -6097,7 +6097,7 @@
      x="10.5"
      y="0"
      class="st37 st41 st42"
-     id="tspan2675">ossberg</tspan><tspan
+     id="tspan2675">ossheim Hotell</tspan><tspan
      x="61.7"
      y="0"
      class="st37 st41 st42"
@@ -6638,7 +6638,7 @@
    height="6.8"
    clip-path="url(#SVGID_2_)"
    id="rect2902" /><g
-   class="clickme"
+   class="cantclick"
    id="jotunheimenfjellstue"
    type="image/svg+xml"><g
      class="st0"
@@ -6649,15 +6649,15 @@
      x="0"
      y="0"
      class="st37 st41 st42"
-     id="tspan2904">J</tspan><tspan
+     id="tspan2904"></tspan><tspan
      x="5.1"
      y="0"
      class="st37 st41 st42"
-     id="tspan2906">o</tspan><tspan
+     id="tspan2906"></tspan><tspan
      x="15.4"
      y="0"
      class="st37 st41 st42"
-     id="tspan2908">tunheimen </tspan></text>
+     id="tspan2908"></tspan></text>
 
 
 
@@ -6675,15 +6675,15 @@
      x="0"
      y="0"
      class="st37 st41 st42"
-     id="tspan2914">Fjell</tspan><tspan
+     id="tspan2914"></tspan><tspan
      x="36.6"
      y="0"
      class="st37 st41 st42"
-     id="tspan2916">s</tspan><tspan
+     id="tspan2916"></tspan><tspan
      x="45.7"
      y="0"
      class="st37 st41 st42"
-     id="tspan2918">tue</tspan></text>
+     id="tspan2918"></tspan></text>
 
 
 
@@ -10073,7 +10073,7 @@
    clip-path="url(#SVGID_2_)"
    id="polyline4310" /><g
    class="clickme"
-   id="boverdalenvandrerhjem"
+   id="galdeuppigard"
    type="image/svg+xml"
    transform="translate(-74.104448,-260.9999)"><g
      class="st0"
@@ -10086,7 +10086,7 @@
      y="1504.6216"
      class="st37 st41 st42"
      id="tspan7069-3-9"
-     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">Bøverdalen</tspan></text>
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">Galde</tspan></text>
 
 
 
@@ -10222,7 +10222,7 @@
      y="1260.4636"
      class="st37 st41 st42"
      id="tspan7069-3-9-9"
-     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">vandrerhjem</tspan></text>
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">Uppigard</tspan></text>
 
 
 
@@ -10279,7 +10279,7 @@
      id="rect1144-9"
      style="fill:#ffffff" /></g><g
    class="clickme"
-   id="naturopplevingar"
+   id="sport1lom"
    type="image/svg+xml"
    transform="translate(-77.246451,-65.502517)"><g
      class="st0"
@@ -10289,7 +10289,7 @@
    id="text1134-1"
    style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff"
    x="715.02539"
-   y="1050.1743">Naturopplevingar</text>
+   y="1050.1743">Sport 1 Lom</text>
 
 
 
