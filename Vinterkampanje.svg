@@ -192,16 +192,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      id="namedview4323"
      showgrid="false"
-     inkscape:zoom="0.81454785"
-     inkscape:cx="469.59009"
-     inkscape:cy="6661.5835"
+     inkscape:zoom="1.6290957"
+     inkscape:cx="774.25775"
+     inkscape:cy="6491.5754"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="sporten" /><style
+     inkscape:current-layer="g4312" /><style
      type="text/css"
      id="style2">
     @font-face {
@@ -1197,6 +1197,7 @@
 
 
 
+
 </g><g
    class="st0 hogrut clickme"
    id="bess1"
@@ -1212,6 +1213,7 @@
 
 
 
+
 </g><g
    class="st0 hogrut clickme"
    id="bess2"
@@ -1219,6 +1221,7 @@
    transform="matrix(0.9848 0 -0.1736 0.9848 954.9766 1933.6552)"
    class="st43 st41 st44"
    id="text333">2258 moh.</text>
+
 
 
 
@@ -1253,6 +1256,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan344">ebjørn</tspan></text>
+
 
 
 
@@ -1623,6 +1627,7 @@
    transform="matrix(-6.123234e-17 -1 1 -6.123234e-17 8.7234 4983.4634)"
    class="st59 st88 st89"
    id="text521" />
+
 
 
 
@@ -2564,6 +2569,7 @@
 
 
 
+
 </g><polygon
      class="st135"
      points="742,1240 775,1234.3 795,1237.1 802,1241.2 801,1286.8 742,1287.3  "
@@ -2846,6 +2852,7 @@
 
 
 
+
 </g><polygon
      class="st137"
      points="1038.3,837.8 1096.2,837.8 1096.2,832.5 1075.6,819.6 1038.3,819.6  "
@@ -3016,6 +3023,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan1211" /></text>
+
 
 
 
@@ -3450,6 +3458,7 @@
 
 
 
+
 </g><g
      class="st0"
      clip-path="url(#SVGID_2_)"
@@ -3486,6 +3495,7 @@
      class="st37 st41 st42"
      id="tspan1458"
      style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff" /></text>
+
 
 
 
@@ -3765,6 +3775,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="hvit13"
@@ -3775,6 +3786,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan1552">Turbeskrivingar / guida turar</tspan></text>
+
 
 
 
@@ -5991,6 +6003,7 @@
 
 
 
+
 </g><g
      class="st0"
      clip-path="url(#SVGID_2_)"
@@ -6033,6 +6046,7 @@
 
 
 
+
 </g><g
      class="st0"
      clip-path="url(#SVGID_2_)"
@@ -6051,6 +6065,7 @@
      y="0"
      class="st59 st251 st42"
      id="tspan2658" /></text>
+
 
 
 
@@ -6087,25 +6102,31 @@
    type="image/svg+xml"><g
      class="st0"
      clip-path="url(#SVGID_2_)"
-     id="g2683"><text
-   transform="matrix(1 0 0 1 980 1023.8481)"
+     id="g2683"
+     transform="translate(-40)"><text
+   transform="translate(980,1023.8481)"
    id="text2681"><tspan
      x="0"
      y="0"
      class="st37 st41 st42"
-     id="tspan2673">F</tspan><tspan
+     id="tspan2673"
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">F</tspan><tspan
      x="10.5"
      y="0"
      class="st37 st41 st42"
-     id="tspan2675">ossheim Hotell</tspan><tspan
-     x="61.7"
+     id="tspan2675"
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">ossheim Hotell</tspan><tspan
+     x="61.700001"
      y="0"
      class="st37 st41 st42"
-     id="tspan2677" /><tspan
-     x="68.1"
+     id="tspan2677"
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff" /><tspan
+     x="68.099998"
      y="0"
      class="st37 st41 st42"
-     id="tspan2679" /></text>
+     id="tspan2679"
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff" /></text>
+
 
 
 
@@ -6649,15 +6670,16 @@
      x="0"
      y="0"
      class="st37 st41 st42"
-     id="tspan2904"></tspan><tspan
+     id="tspan2904" /><tspan
      x="5.1"
      y="0"
      class="st37 st41 st42"
-     id="tspan2906"></tspan><tspan
+     id="tspan2906" /><tspan
      x="15.4"
      y="0"
      class="st37 st41 st42"
-     id="tspan2908"></tspan></text>
+     id="tspan2908" /></text>
+
 
 
 
@@ -6675,15 +6697,16 @@
      x="0"
      y="0"
      class="st37 st41 st42"
-     id="tspan2914"></tspan><tspan
+     id="tspan2914" /><tspan
      x="36.6"
      y="0"
      class="st37 st41 st42"
-     id="tspan2916"></tspan><tspan
+     id="tspan2916" /><tspan
      x="45.7"
      y="0"
      class="st37 st41 st42"
-     id="tspan2918"></tspan></text>
+     id="tspan2918" /></text>
+
 
 
 
@@ -6918,6 +6941,7 @@
 
 
 
+
 </g><g
    class="clickme"
    id="gjendesheim"
@@ -6928,6 +6952,7 @@
    transform="matrix(1 0 0 1 1158.751 2121.3125)"
    class="st37 st41 st42"
    id="text3006">Gjendesheim</text>
+
 
 
 
@@ -7024,6 +7049,7 @@
 
 
 
+
 </g><polygon
      class="st144"
      points="1190.7,1963.8 1227.1,1963.8 1246.2,1949.9 1264.2,1960.4 1263,1988.9 1217.7,1991.1 1190.7,1990.4     "
@@ -7112,6 +7138,7 @@
 
 
 
+
 </g><polygon
      class="st144"
      points="797.8,2082 834.2,2082 853.3,2068.1 871.3,2078.6 870.1,2107.1 824.8,2109.3 797.8,2108.6  "
@@ -7192,6 +7219,7 @@
    transform="matrix(1 0 0 1 1035.125 1700.4131)"
    class="st37 st41 st42"
    id="text3099">Glitterheim</text>
+
 
 
 
@@ -7361,6 +7389,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan3178" /></text>
+
 
 
 
@@ -7696,6 +7725,7 @@
 
 
 
+
 <text
    y="1528.4706"
    x="585.35321"
@@ -7705,6 +7735,7 @@
      class="st37 st41 st42"
      id="tspan7069-0"
      style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff" /></text>
+
 
 
 
@@ -7826,6 +7857,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan3362" /></text>
+
 
 
 
@@ -8324,6 +8356,7 @@
 
 
 
+
 </g><g
    class="st0"
    id="surtningt"
@@ -8331,6 +8364,7 @@
    transform="matrix(0.9848 0 -0.1736 0.9848 937.9777 1821.9579)"
    class="st43 st41 st44"
    id="text3569">2368 moh.</text>
+
 
 
 
@@ -8420,6 +8454,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="glitter1"
@@ -8427,6 +8462,7 @@
    transform="matrix(1 0 0 1 987.7314 1513.271)"
    class="st43 st41 st42"
    id="text3584">Glittertind</text>
+
 
 
 
@@ -8450,6 +8486,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="gal1"
@@ -8465,6 +8502,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="gal2"
@@ -8472,6 +8510,7 @@
    transform="matrix(0.9848 0 -0.1736 0.9848 820.8469 1419.1316)"
    class="st43 st41 st44"
    id="text3593">2469 moh.</text>
+
 
 
 
@@ -8541,6 +8580,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan3614">ossbu</tspan></text>
+
 
 
 
@@ -8644,6 +8684,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan3653" /></text>
+
 
 
 
@@ -8871,6 +8912,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="hvit2"
@@ -8878,6 +8920,7 @@
    transform="matrix(0.9848 0 -0.1736 0.9848 505.1877 1552.1571)"
    class="st68 st41 st44"
    id="text3758">2170 moh.</text>
+
 
 
 
@@ -8959,6 +9002,7 @@
      y="0"
      class="st37 st41 st42"
      id="tspan3791">assbu</tspan></text>
+
 
 
 
@@ -9240,6 +9284,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="store2"
@@ -9247,6 +9292,7 @@
    transform="matrix(0.9848 0 -0.1736 0.9848 634.3661 1763.6292)"
    class="st43 st41 st44"
    id="text3917">2222 moh.</text>
+
 
 
 
@@ -9934,6 +9980,7 @@
 
 
 
+
 </a></g><g
    class="st0 clickme"
    id="hvit11"
@@ -9948,6 +9995,7 @@
      y="0"
      class="st68 st41 st42"
      id="tspan4273">teindalsnose</tspan></text>
+
 
 
 
@@ -9971,6 +10019,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="hurrungane"
@@ -9978,6 +10027,7 @@
    transform="matrix(1 0 0 1 705.2559 2249.7622)"
    class="st68 st41 st42"
    id="text4281">Hurrungane</text>
+
 
 
 
@@ -10052,6 +10102,7 @@
 
 
 
+
 </g><g
    class="st0 clickme"
    id="hvit6"
@@ -10059,6 +10110,7 @@
    transform="matrix(0.9848 0 -0.1736 0.9848 685.9627 1607.4265)"
    class="st68 st41 st44"
    id="text4307">2344 moh.</text>
+
 
 
 
@@ -10078,15 +10130,22 @@
    transform="translate(-74.104448,-260.9999)"><g
      class="st0"
      clip-path="url(#SVGID_2_)"
-     id="g7081-9-9"><text
+     id="g7081-9-9"
+     transform="translate(31.761061,-1.227675)"><text
    id="text7079-6-8"
-   x="586.7627"
+   x="544.7627"
    y="1504.6216"><tspan
-     x="586.7627"
+     x="544.7627"
      y="1504.6216"
      class="st37 st41 st42"
      id="tspan7069-3-9"
-     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">Galde</tspan></text>
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">Galde Uppigard</tspan><tspan
+     x="544.7627"
+     y="1504.6216"
+     class="st37 st41 st42"
+     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff"
+     id="tspan7035" /></text>
+
 
 
 
@@ -10104,6 +10163,7 @@
      class="st37 st41 st42"
      id="tspan7069-0-7"
      style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff" /></text>
+
 
 
 
@@ -10214,15 +10274,8 @@
 
 
 
-<text
-   id="text7079-6-8-7"
-   x="513.24915"
-   y="1260.4636"><tspan
-     x="513.24915"
-     y="1260.4636"
-     class="st37 st41 st42"
-     id="tspan7069-3-9-9"
-     style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff">Uppigard</tspan></text>
+
+
 
 
 
@@ -10244,6 +10297,7 @@
    style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff"
    x="749.02539"
    y="1050.1743" />
+
 
 
 
@@ -10284,12 +10338,14 @@
    transform="translate(-77.246451,-65.502517)"><g
      class="st0"
      clip-path="url(#SVGID_2_)"
-     id="g1136-6"><text
+     id="g1136-6"
+     transform="translate(16.118262,4.1584876)"><text
    class="st37 st41 st42"
    id="text1134-1"
    style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff"
    x="715.02539"
    y="1050.1743">Sport 1 Lom</text>
+
 
 
 
@@ -10334,6 +10390,7 @@
    style="font-size:20px;font-family:Neo-sans-regular;fill:#ffffff"
    x="1025.125"
    y="1700.4131">Sota Sæter</text>
+
 
 </g><polygon
      class="st144"
